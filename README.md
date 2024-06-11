@@ -100,6 +100,10 @@ The code in this repository is open source under the [Apache-2.0 license](./LICE
 If you find our work helpful, please consider citing the our paper
 
 ```
-
-
+@article{chen2024msagpt,
+  title={MSAGPT: Neural Prompting Protein Structure Prediction via MSA Generative Pre-Training},
+  author={Chen, Bo and Bei, Zhilei and Cheng, Xingyi and Li, Pan and Tang, Jie and Song, Le},
+  journal={arXiv preprint arXiv:2406.05347},
+  year={2024}
+}
 ```
