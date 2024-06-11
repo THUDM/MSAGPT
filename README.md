@@ -46,9 +46,9 @@ You can choose to manually download the necessary weights. Then UNZIP it and put
 
 | Model            | Type | Seq Length | Download                                                                                                                                |                                                                                                                                                                                
 |------------------|------|------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| MSAGPT         | Base | 16K         | [🤗 Huggingface](https://cloud.tsinghua.edu.cn/f/ebfc954a4cd24cef9243/?dl=1)  [🔨 SwissArmyTransformer](https://cloud.tsinghua.edu.cn/f/ebfc954a4cd24cef9243/?dl=1)  |
-| MSAGPT-SFT   | Sft | 16K        | [🤗 Huggingface](https://cloud.tsinghua.edu.cn/f/ebfc954a4cd24cef9243/?dl=1)  [🔨 SwissArmyTransformer](https://cloud.tsinghua.edu.cn/f/32da3eadf6e042aab2fa/?dl=1)   |
-| MSAGPT-DPO | Rlhf | 16K         | [🤗 Huggingface](https://cloud.tsinghua.edu.cn/f/ebfc954a4cd24cef9243/?dl=1)  [🔨 SwissArmyTransformer](https://cloud.tsinghua.edu.cn/f/ebfc954a4cd24cef9243/?dl=1) |                                                                                                                                                                                      |                                                                                                                                                                                  |
+| MSAGPT         | Base | 16K         | [🤗 Huggingface](https://huggingface.co/THUDM/MSAGPT)  [🔨 SwissArmyTransformer](https://cloud.tsinghua.edu.cn/f/ebfc954a4cd24cef9243/?dl=1)  |
+| MSAGPT-SFT   | Sft | 16K        | [🤗 Huggingface](https://huggingface.co/THUDM/MSAGPT)  [🔨 SwissArmyTransformer](https://cloud.tsinghua.edu.cn/f/32da3eadf6e042aab2fa/?dl=1)   |
+| MSAGPT-DPO | Rlhf | 16K         | [🤗 Huggingface](https://huggingface.co/THUDM/MSAGPT)  [🔨 SwissArmyTransformer](https://cloud.tsinghua.edu.cn/f/ebfc954a4cd24cef9243/?dl=1) |                                                                                                                                                                                      |                                                                                                                                                                                  |
 
 
 #### Situation 1.1 CLI (SAT version)
