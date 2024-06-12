@@ -4,7 +4,7 @@
   <tr>
     <td>
       <h2>MSAGPT</h2>
-      <p>📖 Paper: <a href="xxx">MSAGPT: Neural Prompting Protein Structure Prediction via MSA Generative Pre-Training</a></p>
+      <p>📖 Paper: <a href="https://arxiv.org/abs/2406.05347">MSAGPT: Neural Prompting Protein Structure Prediction via MSA Generative Pre-Training</a></p>
       <p><b>MSAGPT</b> is a powerful protein language model (PLM). MSAGPT has 3 billion parameters with three versions of the model, MSAGPT, MSAGPT-Sft, and MSAGPT-Dpo, <b>supporting zero-shot and few-shot MSA generation</b>.</p>
       <p><b>MSAGPT achieves state-of-the-art structural prediction performance on natural MSA-scarce scenarios</b>.</p>
     </td>
