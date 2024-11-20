@@ -93,6 +93,20 @@ bash scripts/cli_sat.sh --from_pretrained ./checkpoints/MSAGPT-DPO --input-sourc
   For BF16: 4 * A100(80G) *[Recommend]*.
 
 
+## Natural MSA-scarce benchmark
+Please find the 199 cases along with their retrieved MSAs in the [natural-msa-scarce-cases.txt](./atural-msa-scarce-cases.txt) file. Each line is structured as follows:
+```
+<PDB-id> <Primary Sequence> <M> <MSA1> <M> ... <MSAn>
+```
+
+### Explanation of the Data Structure
+- **`<PDB-id>`**: The unique identifier for the protein structure.
+- **`<Primary Sequence>`**: The amino acid sequence of the protein.
+- **`<M>`**: A delimiter separating different sections.
+- **`<MSA1> ... <MSAn>`**: The multiple sequence alignments retrieved for each case.
+
+
+
 ## License
 
 The code in this repository is open source under the [Apache-2.0 license](./LICENSE).
