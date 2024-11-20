@@ -94,7 +94,7 @@ bash scripts/cli_sat.sh --from_pretrained ./checkpoints/MSAGPT-DPO --input-sourc
 
 
 ## Natural MSA-scarce benchmark
-Please find the 199 cases along with their retrieved MSAs in the [natural-msa-scarce-cases.txt](./atural-msa-scarce-cases.txt) file. Each line is structured as follows:
+Please find the 199 cases along with their retrieved MSAs in the [natural-msa-scarce-cases.txt](./natural-msa-scarce-cases.txt) file. Each line is structured as follows:
 ```
 <PDB-id> <Primary Sequence> <M> <MSA1> <M> ... <MSAn>
 ```
